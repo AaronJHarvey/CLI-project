@@ -1,6 +1,6 @@
 ## Listing all dependencies for project
 
-require 'pry' #debugging
+#require 'pry' #debugging
 require 'httparty' #interacting with API
 require 'json' #parsing data from API in Json
 
